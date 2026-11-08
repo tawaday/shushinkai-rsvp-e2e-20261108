@@ -1,0 +1,6 @@
+{
+  "url": "https://static.line-scdn.net/liff/edge/2/sdk.js",
+  "integrity": "sha384-1oGcmuvrrA8FN0gjWHb5JnzfrBAcRfLRUY3yykZMm79iIMHAWTxEgEmWJrN6CxLN",
+  "sha256": "e252030837aafe2bc8da1d0eac193d5cd9faad9512b1243b1e7b9f055a2d3343",
+  "note": "CDN content is pinned by SRI. A CDN update will block loading until explicitly reviewed and repinned."
+}
